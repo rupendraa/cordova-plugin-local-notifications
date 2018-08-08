@@ -33,7 +33,7 @@ exports._defaults = {
     color         : null,
     data          : null,
     defaults      : 0,
-    foreground    : null,
+    foreground    : true,
     group         : null,
     groupSummary  : false,
     icon          : null,
